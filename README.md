@@ -29,7 +29,7 @@ To grant the SP contributor rights at the subscription level:
 3.	Select Subscriptions
 4.	If you have multiple subscriptions, select the subscription that the runbook will operate in
 5.	On the subscription page, select Access Control (IAM)
-6.	Select Add a role assignment
+6.	Select Add a role assignment 
 7.	In the Role dropdown, select Contributor
 8.	In the Select textbox, type the name of your service principal (app registration name)
 9.	Select your service principal in the list below
